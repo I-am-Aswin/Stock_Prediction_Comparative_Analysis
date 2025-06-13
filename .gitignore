@@ -3,3 +3,5 @@
 /tmp.py
 /random_forest_stock_prediction.ipynb
 /Stock-Market/
+
+*.tar.gz
